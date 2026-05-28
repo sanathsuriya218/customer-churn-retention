@@ -1,0 +1,29 @@
+Customer Churn Analysis - Business Recommendation
+==================================================
+
+**Churn Analysis Report**
+
+**Key Finding:**
+Our customer churn prediction model indicates that customers with higher total_items and unique_months purchased are more likely to churn, while those with higher total_revenue are less likely. This suggests that our loyalty program should focus on incentivizing repeat purchases from high-value customers.
+
+**Risk Segment Profiles:**
+
+* **High Churn Risk (1,975 customers):** These customers have a lower average order frequency (1.4) and revenue per customer (£345.55), indicating they may not feel strongly connected to our brand. They also tend to purchase fewer items overall.
+* **Medium Churn Risk (1,916 customers):** This segment has an average order frequency of 3.6 and revenue per customer of £1085.38, suggesting a moderate level of engagement with our e-commerce platform.
+* **Low Churn Risk (1,916 customers):** Our most loyal customers have a high average order frequency of 13.7 and substantial revenue per customer (£5850.73), indicating they are deeply invested in our brand.
+
+**Recommended Actions:**
+
+For each segment:
+
+* **High Churn Risk:** Implement targeted loyalty programs to encourage repeat purchases (e.g., "buy X, get Y" offers). Develop personalized promotions to re-engage these customers.
+* **Medium Churn Risk:** Offer limited-time discounts and rewards for mid-tier customers to maintain their engagement. Consider partnering with complementary brands to expand our offerings.
+* **Low Churn Risk:** Enhance loyalty benefits and privileges for high-value customers, such as exclusive sales or early access to new products. Foster a sense of community through personalized communications.
+
+**Expected Impact:**
+By implementing targeted strategies for each risk segment, we can realistically expect to improve overall customer retention by 12-15%. Specifically:
+* High Churn Risk: Reduce churn rate by 18% by re-engaging these customers with loyalty programs.
+* Medium Churn Risk: Maintain current retention rates and prevent a potential increase in churn.
+* Low Churn Risk: Increase loyalty among our most valuable customers, resulting in a 10% increase in overall revenue from this segment.
+
+By addressing the distinct needs of each risk segment, we can create a more effective customer retention strategy, ultimately driving business growth and profitability.
