@@ -170,6 +170,17 @@ actions, and expected retention improvement per tier.
 
 ---
 
+## View Full Notebook
+
+GitHub's renderer struggles with large notebooks. View the complete notebook with all outputs and charts rendered here:
+
+[![nbviewer](https://img.shields.io/badge/jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/sanathsuriya218/customer-churn-retention/blob/main/customer_churn_analysis.ipynb)
+
+or directly at:
+https://nbviewer.org/github/sanathsuriya218/customer-churn-retention/blob/main/customer_churn_analysis.ipynb
+
+---
+
 ## Files
 
 | File | Description |
